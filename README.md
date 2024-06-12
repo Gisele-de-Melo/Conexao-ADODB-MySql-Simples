@@ -1,4 +1,4 @@
-# Connection to MySQL Database using ADODB / Conexão com Banco de Dados MySQL utilizando ADODB
+# Connection to MySQL Database using ADODB in Delphi / Conexão com Banco de Dados MySQL utilizando ADODB em Delphi
 - Example of using the ADODB component to connect to the MySql database
 - Exemplo de uso do componente ADODB para se conectar ao banco de dados MySql
 
